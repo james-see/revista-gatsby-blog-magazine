@@ -11,8 +11,8 @@ const Support = () => {
     <Layout>
       <Wrapper>
         <Seo
-          title="Support Us | Revista"
-          description="There are several ways you can support Revista"
+          title="Support Us | InsightDC"
+          description="There are several ways you can support InsightDC's website template creator:"
         />
         <div className="container support-container">
           <div className="row">
@@ -26,7 +26,7 @@ const Support = () => {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  open-source blog template
+                  open-source news template
                 </a>
                 , and if you're interested in an out-of-the-box Markdown
                 blog/magazine starter, fork our repo and modify to fit your
@@ -53,7 +53,7 @@ const Support = () => {
                 <div>
                   <h2 className="support-title">Buy Me a Coffee</h2>
                   <p>
-                    Support Revista's founder and primary maintainer. Part of
+                    Support Revista template's founder and primary maintainer. Part of
                     your donations go to maintaining Revista, as well as the
                     other education promoting services that Chris created, like{' '}
                     <a
