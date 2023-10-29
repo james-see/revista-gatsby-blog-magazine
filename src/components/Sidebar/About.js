@@ -6,7 +6,7 @@ import styled from 'styled-components'
 import SidebarCard from './SidebarCard'
 import './sidebar-styles.scss'
 
-const About = () => {
+const About = ({ postTitle }) => {
   return (
     <SidebarCard>
       <Wrapper>
@@ -19,9 +19,9 @@ const About = () => {
           alt="author"
           className="img"
         />
-        <p>Find the best free educational resources on your favourite topic.</p>
-        <p>Revista is free and open-source forever.</p>
-        <SocialLinks className="sidebar-icons" />
+        <p>Find the best resources to think on your favourite topic.</p>
+        <p>InsightDC is free and open-source news.</p>
+        <SocialLinks title={postTitle} className="sidebar-icons" />
       </Wrapper>
     </SidebarCard>
   )

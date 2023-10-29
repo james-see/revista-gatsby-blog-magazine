@@ -6,11 +6,11 @@ import SidebarCategories from './SidebarCategories'
 import './sidebar-styles.scss'
 // import SidebarImage from './SidebarImage'
 
-const Sidebar = () => {
+const Sidebar = ({ postTitle }) => {
   return (
     <div className="col-xl-3 col-12">
       <SidebarStyles>
-        <About />
+        <About postTitle={postTitle} />
         <Partners />
         <SidebarCategories />
         {/* <SidebarImage/> */}

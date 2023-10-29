@@ -19,7 +19,7 @@ module.exports = {
       'InsightDC is focused on news that the nation cares about without all the mess of taking side',
     url: 'https://insightdc.news', // No trailing slash allowed!
     image: '/logonew.png', // Path to the image placed in the 'static' folder, in the project's root directory.
-    twitterUsername: '',
+    twitterUsername: 'insightdcnews',
     defaultTitle: 'InsightDC',
   },
 

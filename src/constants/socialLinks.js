@@ -4,9 +4,13 @@ import {
   FaTwitterSquare,
   FaGithubSquare,
 } from 'react-icons/fa'
+import { useLocation } from "@reach/router";
 import styled from 'styled-components'
 
-const SocialLinks = () => {
+const SocialLinks = ({ title }) => {
+  const twitterText = encodeURIComponent(`Check out this article: ${title}`);
+  const locationObj = useLocation();
+const twitterURL = `https://twitter.com/intent/tweet?text=${twitterText}&url=${encodeURIComponent(locationObj.href)}&via=insightdcnews`;
   return (
     <SocialLinksStyles>
       <ul className="nav-icons">
@@ -22,7 +26,7 @@ const SocialLinks = () => {
         </li>
         <li>
           <a
-            href="#"
+            href={twitterURL}
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Link to Subreddit"
@@ -32,7 +36,7 @@ const SocialLinks = () => {
         </li>
         <li>
           <a
-            href="#"
+            href={twitterURL}
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Link to Twitter"

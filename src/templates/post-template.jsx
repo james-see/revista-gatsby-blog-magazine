@@ -107,7 +107,7 @@ const PostTemplate = ({ data, children }) => {
                 </div>
               </article>
             </div>
-            <Sidebar />
+            <Sidebar postTitle={title} />
           </div>
         </section>
       </Wrapper>
