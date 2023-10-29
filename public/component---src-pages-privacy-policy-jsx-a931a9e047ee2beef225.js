@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkrevista_gatsby_starter=self.webpackChunkrevista_gatsby_starter||[]).push([[857],{4589:function(e,t,a){a.r(t);var r=a(7294),s=a(3097);t.default=()=>r.createElement(s.Z,null,r.createElement("h1",null,"Privacy Policy page."))}}]);
+//# sourceMappingURL=component---src-pages-privacy-policy-jsx-a931a9e047ee2beef225.js.map

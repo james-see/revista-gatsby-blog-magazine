@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkrevista_gatsby_starter=self.webpackChunkrevista_gatsby_starter||[]).push([[946],{6933:function(e,t,a){a.r(t);var r=a(7294),s=a(3006);t.default=()=>r.createElement(s.Z,null,r.createElement("h1",null,"T&C Page"))}}]);
+//# sourceMappingURL=component---src-pages-terms-and-conditions-jsx-9766a1a43b29f78862e3.js.map
