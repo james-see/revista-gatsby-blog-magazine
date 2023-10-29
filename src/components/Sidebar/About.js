@@ -12,7 +12,7 @@ const About = () => {
       <Wrapper>
         <Title title="Who We Are" />
         <StaticImage
-          src="../../assets/logo.png"
+          src="../../assets/logonew.png"
           layout="fixed"
           width={100}
           height={100}

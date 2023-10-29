@@ -12,15 +12,15 @@ require('dotenv').config({
 module.exports = {
   pathPrefix: `/`,
   siteMetadata: {
-    title: 'Revista',
+    title: 'InsightDC',
     titleTemplate: '',
     // titleTemplate: "%s - Curated List of Free Education Resources",
     description:
-      'Revista is an open source blog/magazine template. Simply write articles in Markdown, place in the content folder, and Revista will automatically create categories and articles!',
-    url: 'https://revista.mesmerdesign.ca', // No trailing slash allowed!
-    image: '/logo.png', // Path to the image placed in the 'static' folder, in the project's root directory.
+      'InsightDC is focused on news that the nation cares about without all the mess of taking side',
+    url: 'https://insightdc.news', // No trailing slash allowed!
+    image: '/logonew.png', // Path to the image placed in the 'static' folder, in the project's root directory.
     twitterUsername: '',
-    defaultTitle: 'Revista',
+    defaultTitle: 'InsightDC',
   },
 
   plugins: [

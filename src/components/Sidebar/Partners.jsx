@@ -32,7 +32,7 @@ const Recent = () => {
           return (
             <div key={partner.name} className="partner">
               <StaticImage
-                src="../../assets/logo.png"
+                src="../../assets/logonew.png"
                 layout="constrained"
                 width={35}
                 alt="author"

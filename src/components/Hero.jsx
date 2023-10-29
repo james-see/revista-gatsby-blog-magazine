@@ -24,12 +24,12 @@ const Hero = () => {
       <div className="hero">
         <div className="row">
           <div className="col-lg-7 col-12 hero-text">
-            <h4>Learning Paths and Curated Lists</h4>
+            <h4>Balanced News. Finally.</h4>
             <h1>
-              <span>Free/Open</span>
-              <br /> Education Resources
+              <span>Our Mantra</span>
+              <br /> Journalism You Can Trust
             </h1>
-            <p>What are you interested in learning?</p>
+            <p>Delve into the truth today.</p>
           </div>
           <div className="col-lg-5 col-12">
             <div className="hero-categories">

@@ -10,7 +10,7 @@ const Vision = () => {
             <div className="grid-item grid-item-title">
               {' '}
               <div className="title">
-                <h2>Committed to Hipsum</h2>
+                <h2>Committed to Clarity</h2>
               </div>
             </div>
 
@@ -19,10 +19,7 @@ const Vision = () => {
               <div className="vision container">
                 <h3>Vision</h3>
                 <p>
-                Adaptogen skateboard schlitz viral edison bulb knausgaard shabby chic drinking vinegar semiotics cred occupy. Fit roof party ugh fanny pack ascot. Blog messenger bag you probably haven't heard of them distillery, vexillologist offal brunch leggings gentrify sustainable mumblecore pok pok polaroid pour-over big mood. 
-                </p>
-                <p>
-                Adaptogen skateboard schlitz viral edison bulb knausgaard shabby chic drinking vinegar semiotics cred occupy. Fit roof party ugh fanny pack ascot. Blog messenger bag you probably haven't heard of them distillery, vexillologist offal brunch leggings gentrify sustainable mumblecore pok pok polaroid pour-over big mood. 
+                At InsightDC, our vision extends beyond just reporting the news. We aspire to reshape the very landscape of journalism by prioritizing transparency, integrity, and inclusivity. In a world where information is power, we believe in empowering our readers with knowledge that is both accurate and enlightening. We envision a future where news platforms act as bridges, connecting diverse communities and fostering understanding. By steadfastly adhering to the highest journalistic standards and continuously adapting to the ever-evolving digital age, InsightDC is committed to being not just a news source, but a beacon of hope for a more informed and united world.
                 </p>
               </div>
             </div>
@@ -32,10 +29,7 @@ const Vision = () => {
               <div className="mission container">
                 <h3>Mission</h3>
                 <p>
-                Adaptogen skateboard schlitz viral edison bulb knausgaard shabby chic drinking vinegar semiotics cred occupy. Fit roof party ugh fanny pack ascot. Blog messenger bag you probably haven't heard of them distillery, vexillologist offal brunch leggings gentrify sustainable mumblecore pok pok polaroid pour-over big mood. 
-                </p>
-                <p>
-                Adaptogen skateboard schlitz viral edison bulb knausgaard shabby chic drinking vinegar semiotics cred occupy. Fit roof party ugh fanny pack ascot. Blog messenger bag you probably haven't heard of them distillery, vexillologist offal brunch leggings gentrify sustainable mumblecore pok pok polaroid pour-over big mood. 
+                At the heart of InsightDC is a resolute mission: to combat the pervasive onslaught of propaganda and disinformation that clouds today's media landscape. We understand the grave implications of unchecked falsehoods, and we are unyielding in our commitment to deliver news that is both factual and unbiased. Every story we publish undergoes rigorous verification, ensuring that our readers receive information untainted by hidden agendas or misleading narratives. In a world rife with misinformation, InsightDC stands as a bulwark, dedicated to preserving the sanctity of truth in journalism.
                 </p>
               </div>
             </div>

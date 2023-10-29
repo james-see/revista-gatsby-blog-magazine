@@ -17,7 +17,7 @@ const IndexPage = ({ data }) => {
   return (
     <Layout>
       <Seo
-        title={`${metadata.title} | Promoting Free Education for Everyone`}
+        title={`${metadata.title} | Free Unbiased News for Everyone`}
         description={metadata.description.substr(0, 160)}
       />
 

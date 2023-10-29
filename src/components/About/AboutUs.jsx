@@ -13,7 +13,7 @@ const AboutUs = () => {
               <AiOutlineRead className="icon" />
               <h3>Humble Beginnings</h3>
               <p>
-              Flannel fixie tilde gastropub actually. La croix everyday carry hot chicken shaman snackwave. Godard art party hexagon hot chicken franzen woke. 8-bit VHS hoodie heirloom, YOLO poutine scenester cloud bread kombucha next level truffaut mustache bruh polaroid kale chips. Small batch PBR&B trust fund ethical before they sold out. Master cleanse sustainable locavore vinyl prism squid single-origin coffee.
+              In the early days of the digital age, the need for a reliable, unbiased news source became increasingly evident. Amidst a sea of misinformation and sensationalism, InsightDC emerged as a beacon of truth. Founded by a small team of dedicated journalists, this news platform was determined to cut through the noise and deliver facts to its readers. Operating out of a modest office space in downtown Washington, D.C., the team worked tirelessly, sifting through stories and verifying facts, ensuring that every article upheld the highest standards of journalism. Their commitment to truth and integrity quickly earned InsightDC a reputation as one of the most trusted news sources in the capital. As the site grew in popularity, its influence spread beyond the city's borders, but its core mission remained the same: to provide clear, unbiased news in an era of uncertainty.
               </p>
             </div>
           </div>
@@ -22,7 +22,7 @@ const AboutUs = () => {
               <AiOutlineDeploymentUnit className="icon" />
               <h3>Access to Resources</h3>
               <p>
-              Adaptogen skateboard schlitz viral edison bulb knausgaard shabby chic drinking vinegar semiotics cred occupy. Fit roof party ugh fanny pack ascot. Blog messenger bag you probably haven't heard of them distillery, vexillologist offal brunch leggings gentrify sustainable mumblecore pok pok polaroid pour-over big mood. 
+              Contact us to help 
               </p>
             </div>
           </div>

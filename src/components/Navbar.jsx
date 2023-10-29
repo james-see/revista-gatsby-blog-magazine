@@ -5,7 +5,7 @@ import { GoHeart } from 'react-icons/go'
 import Links from '../constants/links'
 import styled from 'styled-components'
 import Heart from '../assets/heart.png'
-import logo from '../assets/logo.png'
+import logo from '../assets/logonew.png'
 import { StaticImage } from 'gatsby-plugin-image'
 // import { useStaticQuery, graphql } from 'gatsby'
 
@@ -25,8 +25,8 @@ const Navbar = ({ toggle }) => {
                 height="100"
               />
               <div className="logo-text">
-                <span className="nav-word-open">Rev</span>
-                <span className="nav-word-ed">ista</span>
+                <span className="nav-word-open">Insight</span>
+                <span className="nav-word-ed">DC</span>
               </div>
             </Link>
 
