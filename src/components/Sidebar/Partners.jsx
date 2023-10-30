@@ -8,10 +8,10 @@ import './sidebar-styles.scss'
 
 const partners = [
   {
-    name: 'Other site',
+    name: 'Antibionic',
     logo: '',
     logoAlt: 'Logo for other site',
-    url: 'https://example.com',
+    url: 'https://antibionic.io',
   },
   //
   // {
